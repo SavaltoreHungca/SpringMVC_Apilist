@@ -28,10 +28,10 @@
 
         // 若是将接口描述信息存储在服务器上，则使用此处
         // 使用服务器，可以很方便多人共享接口信息
-        apiManagement.setRemoteServer(
-                "localhost",
-                8888);
-
+//       apiManagement.setRemoteServer(
+//               "localhost",
+//               8888);
+// 
         // 将接口描述信息存储在本地
         apiManagement.usingLocalDB();
 
