@@ -3,6 +3,8 @@
 # SpringMVC_Apilist
 该插件只适用于SpringMVC，其他webserver也能使用，但需要适配
 
+自动获取你应用中通过注解定义的所有接口（例如 @PostMaping），无需在页面手动添加
+
 多窗口，多组织方式的接口调试工具，可用于替代Swagger、PostMan
 
 编辑器使用的是Monaco，可像vscode一样多行编辑，折叠等
